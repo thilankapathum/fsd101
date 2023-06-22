@@ -1,0 +1,45 @@
+.roboto-s-light{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+  }
+  .roboto-s-regular{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+  }
+  .roboto-s-medium{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+  }
+  .roboto-s-bold{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+  }
+  .roboto-s-black{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 900;
+  }
+
+  .roboto-thin{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+  }
+  .roboto-light{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+  }
+  .roboto-regular{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+  }
+  .roboto-medium{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+  }
+  .roboto-bold{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+  }
+  .roboto-black{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+  }
