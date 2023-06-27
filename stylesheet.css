@@ -1,0 +1,22 @@
+body{
+    background-color: #f0f0f0;
+}
+
+#box{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+    background-color: rgba(0, 0, 0, .5);
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    /* opacity: .5; */
+}
+.floating-image{
+    height: 200px; 
+    float: right; 
+    margin: 15px; 
+    border-radius: 10px; 
+    box-shadow: 15px 15px 30px #0ff0ff;
+}
